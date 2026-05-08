@@ -26,7 +26,7 @@ export function Footer() {
             <ul className="space-y-2">
               <li><Link href="/participants" className="text-gray-400 hover:text-white transition-colors">Participants</Link></li>
               <li><Link href="/announcements" className="text-gray-400 hover:text-white transition-colors">Announcements</Link></li>
-              <li><a href="https://discord.gg/gaspacholand" className="text-gray-400 hover:text-white transition-colors flex items-center"><MessageCircle className="mr-1 h-4 w-4" /> Discord</a></li>
+              <li><a href="https://discord.gg/CmXh5YVM99" className="text-gray-400 hover:text-white transition-colors flex items-center"><MessageCircle className="mr-1 h-4 w-4" /> Discord</a></li>
             </ul>
           </div>
           <div>
