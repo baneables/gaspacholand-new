@@ -11,9 +11,7 @@ export default function Participants() {
             <div className="border border-gray-200 dark:border-gray-700 p-4 rounded">
               <h3 className="font-semibold text-gray-900 dark:text-white">Admin Team</h3>
               <ul className="list-disc list-inside text-gray-700 dark:text-gray-300 mt-2">
-                <li>Server Owner: GaspachoMaster</li>
-                <li>Lead Admin: RoleplayGuru</li>
-                <li>Tech Admin: ModWizard</li>
+                <li>Server Owner: bananeable's</li>
               </ul>
             </div>
             <div className="border border-gray-200 dark:border-gray-700 p-4 rounded">
